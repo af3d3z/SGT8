@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SGT8_E2.props" />
+</Project>
